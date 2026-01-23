@@ -7,7 +7,7 @@ processing, and computation using real-world datasets.
 
 Contents:
 - Lab-02_Questions.pdf : Problem statements for Lab 02
-- purchase_data.xlsx  : Dataset used for analysis
+- Purchase_Data.xlsx  : Dataset used for analysis
 - lab02_q1.py to lab02_q9.py : Python solutions for each question
 
 Tools Used:
@@ -17,3 +17,4 @@ Tools Used:
 
 Course:
 Machine Learning Laboratory
+
